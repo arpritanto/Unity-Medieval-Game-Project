@@ -1,5 +1,5 @@
 # Medieval Unity Game Project
- Game ini merupakan game projek 3D pertama saya di unity. Game ini memiliki tema medieval dengan beberapa mekanik RPG. Game ini dipakai untuk pembelajaran dan latihan
+ Game ini merupakan game projek 3D pertama saya di unity. Game ini memiliki tema medieval dengan beberapa mekanik RPG seperti menyerang, bertahan, energy & health bar, dan bergantung/memanjat. Game ini dipakai untuk pembelajaran dan latihan.
 
 ![Screenshot 2023-07-07 082100](https://github.com/arpritanto/Medieval-Unity-Game-Project/assets/130622117/b4188d6e-1fd3-4b20-ba9a-05914e6da335)
 
